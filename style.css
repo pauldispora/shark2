@@ -7,15 +7,16 @@ body {
 
 /* Header Styles */
 .header {
-    text-align: center;
+    text-align: left;
     padding: 20px;
-    background-color: #f2f2f2;
+    background-color: #4197FE;
+    color: white;
 }
 
 /* Section Styles */
 .section {
     padding: 40px 20px;
-    text-align: center;
+    text-align: left;
 }
 
 /* For Image Styling */
@@ -52,10 +53,10 @@ body {
 
 /* Footer Styles */
 .footer {
-    background-color: #333;
+    background-color: #4197FE;
     color: white;
     padding: 20px;
-    text-align: center;
+    text-align: right;
 }
 
 /* Responsive Design */
