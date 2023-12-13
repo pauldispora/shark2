@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1079.3958"
+   zoomAndPan="magnify"
+   viewBox="0 0 809.54681 240.37108"
+   height="320.49478"
+   preserveAspectRatio="xMidYMid"
+   version="1.0"
+   id="svg140"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs144" />
+  <path
+     fill="#4297ff"
+     d="m 809.54688,39.24219 c 0,0 -45.37891,167.98046 -334.125,94.49609 0,0 275.47265,54.39844 334.125,-133.73828015002899 z m 0,0"
+     fill-opacity="1"
+     fill-rule="nonzero"
+     id="path132" />
+  <path
+     fill="#4297ff"
+     d="m 0,111.42187 c 0,0 51.441407,-73.86718 418.48047,18.46485 367.03906,92.33593 391.06641,-66.94141 391.06641,-66.94141 V 219.59375 H 0 Z m 0,0"
+     fill-opacity="1"
+     fill-rule="nonzero"
+     id="path134" />
+  <path
+     fill="#216fed"
+     d="m 0,132.19922 c 0,0 51.441407,-73.8711 418.48047,18.46484 C 785.51953,243 809.54688,83.72265 809.54688,83.72265 V 240.37109 H 0 Z m 0,0"
+     fill-opacity="1"
+     fill-rule="nonzero"
+     id="path136" />
+  <path
+     fill="#216fed"
+     d="m 809.54688,51.40234 c 0,0 -45.37891,155.82031 -334.125,82.33594 0,0 275.85937,66.55859 334.125,-112.34375 z m 0,0"
+     fill-opacity="1"
+     fill-rule="nonzero"
+     id="path138" />
+</svg>
